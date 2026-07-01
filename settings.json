@@ -8,7 +8,7 @@
   "server": {
     "ip": "white_duckyy-DJuJ.aternos.me",
     "port": 54650,
-    "version": "",
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I",
+        "!",
+        "!"
       ]
     },
     "chat-log": true,
